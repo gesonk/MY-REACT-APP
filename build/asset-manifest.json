@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.f1289bd1.css",
+    "main.js": "/my-react-app/static/js/main.a34e4d18.js",
+    "static/js/453.ad6eb26e.chunk.js": "/my-react-app/static/js/453.ad6eb26e.chunk.js",
+    "static/media/about.png": "/my-react-app/static/media/about.24419e4af8d664367e0b.png",
+    "static/media/profile1.jpg": "/my-react-app/static/media/profile1.55bea76736893b485ebf.jpg",
+    "static/media/profile.jpg": "/my-react-app/static/media/profile.dfe754645f90e7f4488a.jpg",
+    "static/media/Geson-Kachappilly-Cv.pdf": "/my-react-app/static/media/Geson-Kachappilly-Cv.72e0c6680969ddae1602.pdf",
+    "index.html": "/my-react-app/index.html",
+    "main.f1289bd1.css.map": "/my-react-app/static/css/main.f1289bd1.css.map",
+    "main.a34e4d18.js.map": "/my-react-app/static/js/main.a34e4d18.js.map",
+    "453.ad6eb26e.chunk.js.map": "/my-react-app/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1289bd1.css",
+    "static/js/main.a34e4d18.js"
+  ]
+}
